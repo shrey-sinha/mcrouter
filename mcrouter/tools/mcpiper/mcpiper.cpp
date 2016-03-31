@@ -147,7 +147,7 @@ Settings parseOptions(int argc, char **argv) {
     std::cout << std::endl;
 
     // Print only named options
-    namedOpts.print(std::cout);
+    //namedOpts.print(std::cout);
     exit(0);
   }
 
